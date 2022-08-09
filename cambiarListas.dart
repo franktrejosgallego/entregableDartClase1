@@ -1,4 +1,8 @@
 void main() {
+  // 4.- Combiar las siguientes listas y mostrarlo en un print 
+  // List<String> animales = ['Conejo', 'Gato'];
+  // List<String> mascotas = ['Tortuga', 'Perro'];
+  
   Set<String> animales = {};
   animales = {"Conejo", "Gato"};
   Set<String> mascotas = {};
