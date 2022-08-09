@@ -6,7 +6,7 @@ void main() {
   //Recoorre el primer arreglo
   print("Primer arreglo registrado");
   animales.forEach((element) => print(element));
-  //Recoorre el Segundo arreglo
+  //Recorre el Segundo arreglo
   print("Segundo arreglo registrado");
   mascotas.forEach((element) => print(element));
   // Usar la función addAll para agregar al arreglo animales
